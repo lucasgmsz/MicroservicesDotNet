@@ -1,0 +1,6 @@
+@MicroservicesDotNet_HostAddress = http://localhost:5152
+
+GET {{MicroservicesDotNet_HostAddress}}/Calculator/sum/2.1/3.7
+Accept: application/json
+
+###
